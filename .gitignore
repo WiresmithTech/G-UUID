@@ -14,4 +14,7 @@
 # Metadata
 *.aliases
 *.lvlps
-.cache/
+
+# Build Folders
+builds/
+*.vip
